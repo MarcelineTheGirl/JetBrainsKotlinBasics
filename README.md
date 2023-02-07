@@ -1,0 +1,2 @@
+# JetBrainsKotlinBasics
+For learning purpose
